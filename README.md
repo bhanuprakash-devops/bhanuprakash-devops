@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhanuprakash-devops/bhanuprakash-devops/main/banner.png" width="100%" />
+</p>
+
 # Hi — I’m Bhanu Prakash 👋  
 **Senior DevOps Engineer** • AWS | Kubernetes | Terraform | CI/CD | SRE
 
